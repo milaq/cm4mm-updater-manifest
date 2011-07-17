@@ -7,31 +7,11 @@
             "mod": "Milestone",
             "board": "sholes",
             "type": "rom",
-            "name": "CyanogenMod-6.1.2-0.11-11.07.17-Milestone",
-            "version": "0.11",
+            "name": "CyanogenMod-6.1.2-0.11",
+            "version": "6.1.2-0.11",
             "description": "Imported nadlabaks camera UI overhaul (looking really awesome now)|Wide camcorder profile support|Add 5-point multitouch module by nadlabak|Included CM4MM Updater app|Slightly tuned low memory killer parameters|Wifi fixed for some routers (no need to apply the Wifi hotfix anymore)|Unlock haptics now obey the general on-off/lenght/pattern settings (much more smoother now)|Torch high brightness mode fixed|Removed \"Bootloader\" option from reboot menu (rebooted to fastboot, which is not suitable for flashing sbf's)",
             "branch": "S",
-            "filename": "update-cm-6.1.2-0.11-11.07.17-Milestone-signed.zip"
-        },
-    {   
-            "mod": "Milestone",
-            "board": "sholes",
-            "type": "rom",
-            "name": "CyanogenMod-6.1.2-0.10-11.07.07-Milestone",
-            "version": "0.10",
-            "description": "Proper ext4 module (supports ext2, ext3, ext4; preloaded)|ext2, ext3 modules included, not preloaded|New 07app2ext script included|openvpn support via tun.ko (preloaded)|cifs (e.g. for Windows shares) - not preloaded, but can be automatically|insmodded via CifsManager)|nls_utf8 module (iocharset=utf8 option for cifsmount; preloaded)|nfs support (included; not preloaded)|xt_multiport (to fix some iptables issues; preloaded)",
-            "branch": "S",
-            "filename": "update-cm-6.1.2-0.10-11.07.07-Milestone-signed.zip"
-        },
-    {   
-            "mod": "Milestone",
-            "board": "sholes",
-            "type": "rom",
-            "name": "CyanogenMod-6.1.2-0.09-11.07.05-Milestone",
-            "version": "0.09",
-            "description": "DSI error recovery module aka dsifix added (nadlabak/Nothize/Zewelor)|Removed now obsolete DSI workaround as dsifix.ko is included|New 5-step overclock module (Skrilax_CZ)|Optional 1% battery steps (CyanogenMod settings->User interface->Status bar) (GoodWin/nadlabak)|Over 100% battery reading fixed (nadlabak)|New simple 10overclock and default oc settings from cm7|AttributeCache clear added to prevent continuously growing system_server memory usage (nadlabak)|Load kernel modules earlier (nadlabak)|Interactive governor by default|Added low battery alert sound toggle (CyanogenMod settings->Sound settings)|Longer wifi rescan interval for less battery consumption while no known networks in range|ro.ringtone_query_wait_time set to 1500ms to fix custom ringtone not playing (nadlabak)|Added OR autoboot|Toggle2G updated",
-            "branch": "S",
-            "filename": "update-cm-6.1.2-0.09-11.07.05-Milestone-signed.zip"
+            "filename": "update-cm-6.1.2-0.11-Milestone-signed.zip"
         }
     ]
 }

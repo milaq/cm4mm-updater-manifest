@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
 	<Version name="1.0-MM">
-		<item>Made CM6.1.2-0.08-Milestone and higher compatible</item>
+		<item>CM6.1.2-0.11-Milestone and higher compatible</item>
 	</Version>
 	<Version name="0.0-MM">
 		<item>Ported for Motorola Milestone</item>
