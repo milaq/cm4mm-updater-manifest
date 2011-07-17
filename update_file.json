@@ -1,27 +1,27 @@
 {
     "MirrorList": [
-	"http://n0rp.chemlab.org/android/"
+	"http://github.com/downloads/milaq/android/"
     ],
     "UpdateList": [
     {   
             "mod": "Milestone",
             "board": "sholes",
             "type": "rom",
-            "name": "CyanogenMod-6.1.2-0.15-Milestone",
-            "version": "6.1.2-0.15",
+            "name": "CyanogenMod-6.1.2-0.13-11.08.19-Milestone",
+            "version": "0.13",
             "description": "WRONG ROM, DO NOT FLASH!!!!!!!!!!!!!! ONLY FOR TESTING PURPOSES!",
             "branch": "S",
-            "filename": "update-cm-6.0.0-DS-signed.zip"
+            "filename": "update-cm-6.1.2-0.10-11.07.07-Milestone-signed.zip"
         },
 	{   
             "mod": "Milestone",
             "board": "sholes",
             "type": "rom",
-            "name": "CyanogenMod-6.1.2-0.09-Milestone",
-            "version": "6.1.2-0.09",
+            "name": "CyanogenMod-6.1.2-0.09-11.07.05-Milestone",
+            "version": "0.09",
             "description": "WRONG ROM, DO NOT FLASH!!!!!!!!!!!!!! ONLY FOR TESTING PURPOSES!",
             "branch": "S",
-            "filename": "update-cm-6.0.0-DS-signed.zip"
+            "filename": "update-cm-6.1.2-0.09-11.07.05-Milestone-signed.zip"
         }
     ]
 }
