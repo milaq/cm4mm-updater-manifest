@@ -11,7 +11,7 @@
             "version": "0.11",
             "description": "Imported nadlabaks camera UI overhaul (looking really awesome now)|Wide camcorder profile support|Add 5-point multitouch module by nadlabak|Included CM4MM Updater app|Slightly tuned low memory killer parameters|Wifi fixed for some routers (no need to apply the Wifi hotfix anymore)|Unlock haptics now obey the general on-off/lenght/pattern settings (much more smoother now)|Torch high brightness mode fixed|Removed \"Bootloader\" option from reboot menu (rebooted to fastboot, which is not suitable for flashing sbf's)",
             "branch": "S",
-            "filename": "update-cm-6.1.2-0.10-11.07.17-Milestone-signed.zip"
+            "filename": "update-cm-6.1.2-0.11-11.07.17-Milestone-signed.zip"
         },
     {   
             "mod": "Milestone",
