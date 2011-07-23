@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
+	<Version name="1.1-MM">
+		<item>Add theme support</item>
+	</Version>
 	<Version name="1.0-MM">
 		<item>CM6.1.2-0.11-Milestone and higher compatible</item>
 	</Version>
