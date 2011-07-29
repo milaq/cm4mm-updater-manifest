@@ -9,7 +9,7 @@
             "type": "rom",
             "name": "CyanogenMod-6.1.2-0.12",
             "version": "6.1.2-0.12",
-            "description": "Gingerbread's text cursor (by achotjan; thx luca for the hint)|Dsifix v2.2 by nadlabak included|Hardware keyboard layout option|Added Dock observer option|Volume buttons swap in landscape option|"No action on plug" option|5-point multitouch switch in CMSettings",
+            "description": "Gingerbread's text cursor (by achotjan; thx luca for the hint)|Dsifix v2.2 by nadlabak included|Hardware keyboard layout option|Added Dock observer option|Volume buttons swap in landscape option|No action on plug option|5-point multitouch switch in CMSettings",
             "branch": "S",
             "filename": "update-cm-6.1.2-0.12-Milestone-signed.zip"
         },
