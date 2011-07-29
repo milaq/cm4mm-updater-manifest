@@ -4,6 +4,16 @@
     ],
     "UpdateList": [
     {   
+            "mod": "CyanogenMod-6.1.2-0.12",
+            "board": "sholes",
+            "type": "theme",
+            "name": "Gingerbread",
+            "version": "v3",
+            "description": "Pulldown bar color overhaul to better match CM7's look| |CHANGE TEXT COLORS IN CMSETIINGS LIKE THIS:|Clock color->#ffffffff|Date color->#ffffffff|Notification ticker color->#ffffffff|No notifications title color->#ff969696|Ongoing title color->#ff969696|Latest notifications title color->#ff969696",
+            "branch": "S",
+            "filename": "theme-Gingerbread-v3-cm-6.1.2-0.12.zip"
+        },
+    {   
             "mod": "CyanogenMod-6.1.2-0.11|CyanogenMod-6.1.2-0.11a",
             "board": "sholes",
             "type": "theme",
