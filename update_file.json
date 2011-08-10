@@ -9,7 +9,7 @@
             "type": "rom",
             "name": "CyanogenMod-6.3.0",
             "version": "6.3.0",
-            "description": "Internal screenshot option (accessible from power menu)|Updated multitouch module by nadlabak|Added an option to choose between 2, 4 and 5-point multitouch|Added a fix to address the infamous INCOMING_RING notification bug|Resized GB text cursor - smaller, sleeker and not obscuring SIP|Camera shutter sounds can now be enabled/disabled through CMSettings|Updated ADWLauncher to latest version from Gingerbread|Build Usb.apk from source|ADB on boot|Various small fixes/improvements| |NOTE: Moving away from the 6.1.2-0.xx naming convention. Renaming from CyanogenMod 6.1.2-0.13 to CyanogenMod 6.3.0 as both Motorola (no kernel updates expected) and CyanogenMod (CM6 branch is final) arent providing us with updates anymore.",
+            "description": "Internal screenshot option (accessible from power menu)|Added Crystal talk|Updated multitouch module by nadlabak|Added an option to choose between 2, 4 and 5-point multitouch|Added a fix to address the infamous INCOMING_RING notification bug|Resized GB text cursor - smaller, sleeker and not obscuring SIP|Camera shutter sounds can now be enabled/disabled through CMSettings|Updated ADWLauncher to latest version from Gingerbread|Build Usb.apk from source|ADB on boot|Various small fixes/improvements| |NOTE: Moving away from the 6.1.2-0.xx naming convention. Renaming from CyanogenMod 6.1.2-0.13 to CyanogenMod 6.3.0 as both Motorola (no kernel updates expected) and CyanogenMod (CM6 branch is final) arent providing us with updates anymore.",
             "branch": "S",
             "filename": "update-cm-6.3.0-Milestone-signed.zip"
         },
