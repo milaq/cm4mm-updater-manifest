@@ -8,6 +8,16 @@
             "board": "sholes",
             "type": "theme",
             "name": "Gingerbread",
+            "version": "v5",
+            "description": "New notification power widget icons from GB| |CHANGE TEXT COLORS IN CMSETIINGS LIKE THIS:|Clock color->#ffffffff|Date color->#ffffffff|Notification ticker color->#ffffffff|No notifications title color->#ff969696|Ongoing title color->#ff969696|Latest notifications title color->#ff969696",
+            "branch": "S",
+            "filename": "theme-Gingerbread-v5-cm-6.3.0.zip"
+        },
+    {   
+            "mod": "CyanogenMod-6.3.0",
+            "board": "sholes",
+            "type": "theme",
+            "name": "Gingerbread",
             "version": "v4",
             "description": "Removed Settings.apk as it caused rare problems with popups| |CHANGE TEXT COLORS IN CMSETIINGS LIKE THIS:|Clock color->#ffffffff|Date color->#ffffffff|Notification ticker color->#ffffffff|No notifications title color->#ff969696|Ongoing title color->#ff969696|Latest notifications title color->#ff969696",
             "branch": "S",
