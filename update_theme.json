@@ -4,7 +4,7 @@
     ],
     "UpdateList": [
     {   
-            "mod": "CyanogenMod-6.3.0",
+            "mod": "CyanogenMod-6.3.0|CyanogenMod-6.3.0a",
             "board": "sholes",
             "type": "theme",
             "name": "Gingerbread",
@@ -23,7 +23,7 @@
 
         },
     {   
-            "mod": "CyanogenMod-6.3.0",
+            "mod": "CyanogenMod-6.3.0|CyanogenMod-6.3.0a",
             "board": "sholes",
             "type": "theme",
             "name": "Gingerbread",
@@ -33,7 +33,7 @@
             "filename": "theme-Gingerbread-v5-cm-6.3.0.zip"
         },
     {   
-            "mod": "CyanogenMod-6.3.0",
+            "mod": "CyanogenMod-6.3.0|CyanogenMod-6.3.0a",
             "board": "sholes",
             "type": "theme",
             "name": "Gingerbread",
