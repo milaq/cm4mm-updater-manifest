@@ -4,6 +4,44 @@
     ],
     "UpdateList": [
     {   
+            "mod": "*",
+            "board": "sholes",
+            "type": "theme",
+            "name": "Gingerbread",
+            "version": "v7",
+            "description": "Converted to Metamorph theme (thx Silesh)|Fixed unlock sliders|Fixed headset icon|More apps themed |CHANGE TEXT COLORS IN CMSETIINGS LIKE THIS:|Clock color->#ffffffff|Date color->#ffffffff|Notification ticker color->#ffffffff|No notifications title color->#ff969696|Ongoing title color->#ff969696|Latest notifications title color->#ff969696",
+            "branch": "S",
+            "filename": "theme-Gingerbread-v7.zip",
+            "Screenshots": [
+                    "http://img683.imageshack.us/img683/7383/gb1k.png",
+                    "http://img830.imageshack.us/img830/8775/gb2.png",
+                    "http://img231.imageshack.us/img231/8826/gb3.png",
+                    "http://img593.imageshack.us/img593/1069/gb4.png",
+                    "http://img804.imageshack.us/img804/5475/gb5m.png",
+                    "http://img855.imageshack.us/img855/6660/gb6.png"
+            ]
+
+        },
+    {   
+            "mod": "*",
+            "board": "sholes",
+            "type": "theme",
+            "name": "Gingerbread-Labeled-Battery",
+            "version": "v7",
+            "description": "Converted to Metamorph theme (thx Silesh)|Fixed unlock sliders|Fixed headset icon|More apps themed |CHANGE TEXT COLORS IN CMSETIINGS LIKE THIS:|Clock color->#ffffffff|Date color->#ffffffff|Notification ticker color->#ffffffff|No notifications title color->#ff969696|Ongoing title color->#ff969696|Latest notifications title color->#ff969696",
+            "branch": "S",
+            "filename": "theme-Gingerbread-v7-labeled-battery.zip",
+            "Screenshots": [
+                    "http://img683.imageshack.us/img683/7383/gb1k.png",
+                    "http://img830.imageshack.us/img830/8775/gb2.png",
+                    "http://img231.imageshack.us/img231/8826/gb3.png",
+                    "http://img593.imageshack.us/img593/1069/gb4.png",
+                    "http://img804.imageshack.us/img804/5475/gb5m.png",
+                    "http://img855.imageshack.us/img855/6660/gb6.png"
+            ]
+
+        },
+    {   
             "mod": "CyanogenMod-6.3.0|CyanogenMod-6.3.0a",
             "board": "sholes",
             "type": "theme",
