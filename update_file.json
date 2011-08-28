@@ -7,6 +7,16 @@
             "mod": "Milestone",
             "board": "sholes",
             "type": "rom",
+            "name": "CyanogenMod-6.3.2",
+            "version": "6.3.2",
+            "description": "Fix data connection icon shown instead of usbicon|Readded sourcebuilt Usb.apk",
+            "branch": "S",
+            "filename": "update-cm-6.3.2-Milestone-signed.zip"
+        },
+    {   
+            "mod": "Milestone",
+            "board": "sholes",
+            "type": "rom",
             "name": "CyanogenMod-6.3.1",
             "version": "6.3.1",
             "description": "New kernel and vendor modules (SHLA 5.15)|Updated DSIfix by nadlabak to latest version (v2.52)|Disabled software GL renderer (improves performance, compatibility)|Touchfocus support for camera|New Torch with Auto-Off option, high brightness|Updated CM4MM Updater to latest version (v1.2)",
