@@ -9,7 +9,7 @@
             "type": "rom",
             "name": "CyanogenMod-6.3.2",
             "version": "6.3.2",
-            "description": "Fix data connection icon shown instead of usbicon|Readded sourcebuilt Usb.apk",
+            "description": "Latest DSI/MMC-fix by nadlabak (v2.6)|Fix data connection icon shown instead of usbicon|Readded sourcebuilt Usb.apk",
             "branch": "S",
             "filename": "update-cm-6.3.2-Milestone-signed.zip"
         },
