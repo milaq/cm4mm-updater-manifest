@@ -7,6 +7,16 @@
             "mod": "Milestone",
             "board": "sholes",
             "type": "rom",
+            "name": "CyanogenMod-6.3.3",
+            "version": "6.3.3",
+            "description": "Native Usb tethering (SkrilaxCZ/nadlabak)|Ergonomic date- and timepicker|Volume rocker wake option|Added an option in camera settings HUD to turn off focus beep|Newest motofix module by nadlabak (DSI/MMC/NAND-fix v2.61)|Readded CMStats (optional bootup checkin here http://stats.cyanogenmod.com/)|Using rewrite branch of Usb.apk (details here http://goo.gl/Ntt5D)|Reduced logging",
+            "branch": "S",
+            "filename": "update-cm-6.3.3-Milestone-signed.zip"
+        },
+    {   
+            "mod": "Milestone",
+            "board": "sholes",
+            "type": "rom",
             "name": "CyanogenMod-6.3.2",
             "version": "6.3.2",
             "description": "Latest DSI/MMC-fix by nadlabak (v2.6)|Fix data connection icon shown instead of usbicon|Readded sourcebuilt Usb.apk",
