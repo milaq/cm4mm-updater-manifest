@@ -7,6 +7,16 @@
             "mod": "Milestone",
             "board": "sholes",
             "type": "rom",
+            "name": "CyanogenMod-6.3.4",
+            "version": "6.3.4",
+            "description": "Added an option to always show the battery status on lockscreen|Killable Gmaps location service (if Gmaps is not running)|Contacts and ContactsProvider are now running sperarately from acore in a dedicated process (more ram freeable w/o killing e.g. the launcher)|Usb.apk now runs in System.UI process|Minor improvements/fixes",
+            "branch": "S",
+            "filename": "update-cm-6.3.4-Milestone-signed.zip"
+        },
+    {   
+            "mod": "Milestone",
+            "board": "sholes",
+            "type": "rom",
             "name": "CyanogenMod-6.3.3",
             "version": "6.3.3",
             "description": "Native Usb tethering (SkrilaxCZ/nadlabak)|Ergonomic date- and timepicker|Volume rocker wake option|Added an option in camera settings HUD to turn off focus beep|Newest motofix module by nadlabak (DSI/MMC/NAND-fix v2.61)|Readded CMStats (optional bootup checkin here http://stats.cyanogenmod.com/)|Using rewrite branch of Usb.apk (details here http://goo.gl/Ntt5D)|Reduced logging",
