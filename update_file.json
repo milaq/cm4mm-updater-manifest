@@ -7,6 +7,16 @@
             "mod": "Milestone",
             "board": "sholes",
             "type": "rom",
+            "name": "CyanogenMod-6.3.5",
+            "version": "6.3.5",
+            "description": "Added an option to show upcoming events from calendar in lockscreen|Separate media volumes for headset/speaker|Better power profile from nadlabak|Gmaps hack is now optional (but enabled by default)|Cleanup of old, unused modules|AC clear logging disabled",
+            "branch": "S",
+            "filename": "update-cm-6.3.5-Milestone-signed.zip"
+        },
+    {   
+            "mod": "Milestone",
+            "board": "sholes",
+            "type": "rom",
             "name": "CyanogenMod-6.3.4",
             "version": "6.3.4",
             "description": "Added an option to always show the battery status on lockscreen|Killable Gmaps location service (if Gmaps is not running)|Contacts and ContactsProvider are now running sperarately from acore in a dedicated process (more ram freeable w/o killing e.g. the launcher)|Usb.apk now runs in System.UI process|Minor improvements/fixes",
