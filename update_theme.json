@@ -4,7 +4,7 @@
     ],
     "UpdateList": [
     {   
-            "mod": "CyanogenMod-6.3.5",
+            "mod": "CyanogenMod-6.3.5|CyanogenMod-6.3.6",
             "board": "sholes",
             "type": "theme",
             "name": "Gingerbread",

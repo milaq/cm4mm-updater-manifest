@@ -7,6 +7,16 @@
             "mod": "Milestone",
             "board": "sholes",
             "type": "rom",
+            "name": "CyanogenMod-6.3.6",
+            "version": "6.3.6",
+            "description": "Prevent ApplicationsProvider and UserDictionaryProvider from running in acore (allows the system to kill them seperately in low-mem situations - more ram freeable)|Added an option to build.prop to always keep 2 custom apps in mem (sys.keep_app_x)|Removed outdated Toggle2G",
+            "branch": "S",
+            "filename": "update-cm-6.3.6-Milestone-signed.zip"
+        },
+    {   
+            "mod": "Milestone",
+            "board": "sholes",
+            "type": "rom",
             "name": "CyanogenMod-6.3.5",
             "version": "6.3.5",
             "description": "Added an option to show upcoming events from calendar in lockscreen|Separate media volumes for headset/speaker|Better power profile from nadlabak|Gmaps hack is now optional (but enabled by default)|Cleanup of old, unused modules|AC clear logging disabled",
